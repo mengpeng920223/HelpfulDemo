@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="textDark">#303030</color>
+    <color name="textLight">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="navBg">#e6e6e6</color>
+</resources>
